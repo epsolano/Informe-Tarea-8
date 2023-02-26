@@ -1019,6 +1019,8 @@ Ic = 3.235 < 90° mA
 
 **SECCIÓN 16-1 Respuesta sinusoidal de circuitos RL en serie**
 
+https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2010S2.jpg
+
 **SECCIÓN 16-2 Impedancia de circuitos RL en serie**
 
 **SECCIÓN 16-3 Análisis de circuitos RL en serie**
