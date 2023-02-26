@@ -743,11 +743,140 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 10 kHz 9.87 V
 
 
+*39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz*
+
+![image](https://user-images.githubusercontent.com/93734334/153955050-db7b1c12-1e65-4b44-8c36-8bae4c661c10.png)
+
+**Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/153973642-3840e16e-7c4e-420b-9815-111c97a76bc0.png)
+
 **Parte 2: CIRCUITOS EN PARALELO**
 
 **SECCIÓN 15-5 Impedancia y admitancia de circuitos RC en paralelo**
 
+*41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.*
+
+![image](https://user-images.githubusercontent.com/93734334/153955218-6f73c855-59c2-4930-b743-adead1b07752.png)
+
+RT = 470+330+680                                                                                                                                                                 
+RT= 1480 ohm
+
+CT = 0.1 + 0.22                                                                                                                                                                   
+CT = 0.32 uF                                                                                                                                                                     
+CT = 3.32x10^-7 F
+
+f = 2 KHz                                                                                                                                                                         
+f = 2000 Hz
+
+Xc = 1/((2pi)(f)(C))                                                                                                                                                             
+Xc = 1/((2pi)(2000)(3.2x10^-7))                                                                                                                                                   
+Xc = 248.68 ohm
+
+Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
+
+**Z = 245 ohm**
+
+**θ = 80.5°**
+
 **SECCIÓN 15-6 Análisis de circuitos RC en paralelo**
+*43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.*
+
+![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
+
+**VC = VR = 10 < 0°**
+
+IR = Vs/R                                                                                                                                                                         
+IR = 10 < 0° / 68 < 0°                                                                                                                                                           
+**IR = 147 < 0° mA**
+
+Ic = Vs/Xc                                                                                                                                                                       
+Ic = 10 < 0° / 90 < -90°                                                                                                                                                        
+**Ic = 111 < 90° mA**
+
+Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)                                                                                                                                         
+Itot = √(147)^2 + (111)^2 < tan^-1 (111/147)                                                                                                                                     
+**Itot = 184 < 37.1° mA**
+
+*45. Para el circuito de la figura 15-97, determine lo siguiente:*                               
+(a) Z (b) IR (c) IC(tot) (d) Itot (e) θ 
+
+![image](https://user-images.githubusercontent.com/93734334/153955663-df6cf923-fd99-4b3f-90ee-b9a283044ddd.png)
+
+(a)
+
+Z = (10)(8.75)/(√(10)^2 + (8.75)^2) < -tan^-1 (10/8.75)
+
+**Z = 6.59 < -48.8° ohm**
+
+(b)
+
+IR = Vs/R                                                                                                                                                                         
+IR = 0.1 < 0° / 10 < 0°                                                                                                                                                           
+**IR = 10 < 0° mA**
+
+(c)
+
+1/Xct = 1/21 + 1/5
+Xc = 8.75
+
+Ic = Vs/Xc                                                                                                                                                                       
+Ic = 0.1 < 0° / 8.75 < -90°                                                                                                                                                        
+**Ic = 11,4 < 90° mA**
+
+(d)
+
+Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)                                                                                                                                         
+Itot = √(10)^2 + (11.4)^2 < tan^-1 (10/11.4)                                                                                                                                     
+**Itot = 15.2 < 48.8° mA**
+
+(e)
+
+θ = tan^-1(Ic/IR)                                                                               
+θ = tan^-1(11.4/10)                                                                             
+**θ = 48.8° mA**
+
+*47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie*
+
+![image](https://user-images.githubusercontent.com/93734334/153955866-fe237813-a0df-40f0-a0bf-3f024da80add.png)
+
+Rt = 10+12                                                                                                                                                                       
+Rt = 22 kohm
+
+1/Ct = 1/100 + 1/47                                                                                                                                                               
+Ct = 31.97 pF
+
+Xc = 1/((2pi)(f)(C))                                                                                                                                                             
+Xc = 1/((2pi)(100000)(31.97x10^-12))                                                                                                                                                   
+Xc = 49.783 kohm
+  
+G = 1/22 Komh                                                                                                                                                                     
+G = 0.045 uS
+
+Bc = 1/49.783                                                                                                                                                                     
+Bc = 0.02 uS
+
+Y = √(G)^2 + (Bc)^2 < tan^-1 (Bc/G)                                                                                                                                               
+Y = √(0.045)^2 + (0.02)^2 < tan^-1 (0.02/0.045)                                                                                                                                   
+Y = 0.049 < 23.96° uS
+
+Ztot = 1/Y                                                                                                                                                                       
+Ztot = 1/0.049 < 23.96°                                                                                                                                                           
+Ztot = 20.41 < -23.96° Kohm
+
+Forma rectangular
+
+Ztot = Zcosθ - jZsenθ                                                                                                                                                             
+Ztot = 20.41cos(-23.96) -j20.41sen(-23.96)                                                                                                                                       
+Ztot = 18.7 kohm - j8.288 kohm
+
+**Req = 18.7 khom**
+  
+C = 1/((2pi)(f)(Xc))                                                                                                                                                             
+C = 1/((2pi)(10000)(8288))                                                                                                                                                       
+**C = 192 pF**
+
+El resistor de 18.7 kohm en serie con el capacitor de 192 pF
 
 **Parte 3: CIRCUITOS EN SERIE-PARALELO**
 
