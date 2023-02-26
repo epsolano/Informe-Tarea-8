@@ -1019,101 +1019,42 @@ Ic = 3.235 < 90° mA
 
 **SECCIÓN 16-1 Respuesta sinusoidal de circuitos RL en serie**
 
-*2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?*
+***(1)*** Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR yVL?
 
-En el problema 1 I, VR, VL son ondas en formal sinusoidal
+15 kHz
 
 **SECCIÓN 16-2 Impedancia de circuitos RL en serie**
 
-*4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%204S2.jpg)
-
-*6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%206%20S2.jpg)
 
 
 **SECCIÓN 16-3 Análisis de circuitos RL en serie**
 
-*8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.*
 
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%208S2.jpg)
-
-*10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2010S2.jpg)
-
-*12. Determine θ para el circuito de la figura 16-58.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2012S2.jpg)
-
-*14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2014S2.jpg)
-
-*16.	Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2016S2.jpg)
-
-*18 Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.*
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2018S2.jpg)
 
 **Parte 2: CIRCUITOS EN PARALELO**
 
 **SECCIÓN 16-4 Impedancia y admitancia de circuitos RL en paralelo**
 
-*20	Repita el problema 19 para las siguientes frecuencias:*
 
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2020S2.jpg)
 
 
 **SECCIÓN 16-5 Análisis de circuitos RL en paralelo**
 
-*22	Encuentre la corriente total y cada corriente de rama en la figura 16-64.*
 
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2022S2.jpg)
-
-*24 Repita el problema 23 para R = 56 Ω y L = 330 µH.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2024S2.jpg)
 
 
 **Parte 3: CIRCUITOS EN SERIE-PARALELO**
 
 **SECCIÓN 16-6 Análisis de circuitos RL en serie-paralelo**
 
-*30. Para el circuito de la figura 16-69, determine lo siguiente:*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2030S2%201.jpg)
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2030S2%202.jpg)
-
-*32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2032%20S2.jpg)
-
-*34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2034%20S2.jpg)
 
 **Parte 4: TEMAS ESPECIALES**
 
 **SECCIÓN 16-7 Potencia en circuitos RL**
 
-*36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2036%20S2.jpg)
-
-*38. ¿Cuál es el factor de potencia en la figura 16-64?*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2038%20S2.jpg)
-
-*40. Determine la potencia verdadera para el circuito de la figura 16-70.*
-
-![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2040%20S2.jpg)
 
 **SECCIÓN 16-8 Aplicaciones básicas**
+
 
 **SECCIÓN 16-9 Localización de fallas**
 
