@@ -14,6 +14,7 @@
 
 **1.1  OBJETIVO GENERAL**
 
+* Leer el capitulo 13 y 14 del libro *Principios de circuitos electricos-Floyd*,para conocer los circuitos RC y RL y comprender su uso en la vida diaria
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
@@ -1258,6 +1259,6 @@ Utilizar la fórmula, Vsal=(R/Ztot)*
 
 6. Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
 
-7.Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.9 y 10). Prentice Hall
+7.Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.15 y 16). Prentice Hall
 
 
