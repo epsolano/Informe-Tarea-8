@@ -1246,4 +1246,16 @@ Utilizar la fórmula, Vsal=(R/Ztot)*
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
+1. Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+2. McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+3. Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
+
+4. Unknown, & Perfil, V. T. mi. (n.d.). circuitos RC,RL,RLC. Blogspot.Com. Retrieved February 18, 2022, from http://omar-fuentesrap.blogspot.com/2012/06/los-circuitos-rc-son-circuitos-que.html
+
+5. francolupio. (2003, May 5). Circuito RC. Monografias.com. https://www.monografias.com/trabajos12/circu/circu
+
+6. Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
+
 
