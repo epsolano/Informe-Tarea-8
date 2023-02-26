@@ -1019,9 +1019,20 @@ Ic = 3.235 < 90° mA
 
 **SECCIÓN 16-1 Respuesta sinusoidal de circuitos RL en serie**
 
-https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%2010S2.jpg
+*2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?*
+
+En el problema 1 I, VR, VL son ondas en formal sinusoidal
 
 **SECCIÓN 16-2 Impedancia de circuitos RL en serie**
+
+*4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.*
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%204S2.jpg)
+
+*6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:*
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Ejercicios%20Cap%2016/EJ%206%20S2.jpg)
+
 
 **SECCIÓN 16-3 Análisis de circuitos RL en serie**
 
