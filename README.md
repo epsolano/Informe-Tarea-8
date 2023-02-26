@@ -1258,4 +1258,6 @@ Utilizar la fórmula, Vsal=(R/Ztot)*
 
 6. Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
 
+7.Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.9 y 10). Prentice Hall
+
 
