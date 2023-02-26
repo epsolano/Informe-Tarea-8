@@ -18,6 +18,11 @@
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
+* Entender las características que poseen los dos circuitos.
+* Definir el uso que se le puede dar.
+* Comprender los nuevos componentes que estos circuitos usan.
+* Realizar los ejercicios de ambos capítulos para tener mejor conocimiento de los temas. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**
@@ -1243,6 +1248,11 @@ Utilizar la fórmula, Vsal=(R/Ztot)*
 
 **5. CONCLUSIONES**
 
+* Los circuitos RC y RL unen dos componentes los cuales son: bobinas y capacitores.
+* Los circuitos RC y RL funcionan en diferentes áreas y nos ayuda a mejorar ciertos parámetros, también existen diferentes ordenes de cada modelo, teniendo circuitos de primer y segundo orden.
+* Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador y se caracteriza por que la corriente puede variar con el tiempo.
+* Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente. 
+* En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1259,6 +1269,6 @@ Utilizar la fórmula, Vsal=(R/Ztot)*
 
 6. Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
 
-7.Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.15 y 16). Prentice Hall
+7. Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol.15 y 16). Prentice Hall
 
 
